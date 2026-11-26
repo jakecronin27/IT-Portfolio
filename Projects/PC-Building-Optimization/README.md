@@ -2,35 +2,63 @@
 
 ## Project Overview
 
-This project documents my hands-on experience building, configuring, and optimizing three Windows desktop PC towers.
+This project documents my hands-on experience independently building, configuring, and optimizing three different Windows desktop PC towers.
 
-The work involved assembling computer components, configuring systems, installing and setting up software, and evaluating system performance.
+I performed the complete hardware assembly process, installed and configured Windows, worked with BIOS/UEFI settings, and evaluated CPU performance using Cinebench.
 
-## Work Performed
+## Hardware Assembly
 
-- Built and assembled three different Windows desktop PC towers.
-- Installed and connected internal hardware components.
+I independently assembled three desktop computer systems.
+
+Work performed included:
+
+- Installed and configured motherboards.
+- Installed CPUs and applied appropriate thermal solutions.
+- Installed RAM modules.
+- Installed graphics cards.
+- Installed storage drives.
+- Installed and connected power supplies.
+- Connected internal power, data, and front-panel cables.
+- Verified hardware installation and system operation.
+
+## Operating System & Firmware Configuration
+
+For all three systems, I:
+
+- Installed Windows.
+- Configured BIOS/UEFI settings.
+- Verified hardware recognition and system functionality.
 - Configured systems for normal operation.
-- Optimized system settings to improve performance.
-- Evaluated system performance using benchmarking and testing.
-- Troubleshot configuration and performance-related issues during setup.
+
+## Performance Testing & Optimization
+
+I used Cinebench to evaluate CPU performance and performed system optimization.
+
+Areas of work included:
+
+- CPU benchmarking with Cinebench.
+- System configuration and performance adjustments.
+- Evaluating system performance following optimization.
+- Troubleshooting configuration and performance-related issues.
+
+Specific Cinebench versions, benchmark scores, and before-and-after measurements will be documented when available.
 
 ## Technical Skills Demonstrated
 
 - Desktop PC assembly
-- Hardware installation and component compatibility
+- CPU and motherboard installation
+- RAM and GPU installation
+- Power supply and storage installation
+- Internal cable management
 - Windows installation and configuration
-- BIOS/UEFI familiarity
-- System configuration and optimization
-- Performance testing
+- BIOS/UEFI configuration
+- CPU performance benchmarking
+- Cinebench
+- System optimization
 - Hardware troubleshooting
 
-## Results
+## Project Results
 
-I successfully built and configured three Windows desktop systems and performed optimization work to improve their performance.
+Successfully built and configured three Windows desktop computers independently.
 
-Specific benchmark software, measurements, and before-and-after results will be added when supporting records are available.
-
-## Evidence
-
-Supporting photographs, hardware specifications, configuration details, and benchmark screenshots can be added here as documentation becomes available.
+Completed operating system installation, BIOS/UEFI configuration, and CPU performance testing using Cinebench.
