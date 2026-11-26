@@ -8,18 +8,29 @@ I enjoy working directly with hardware and software, understanding how systems f
 
 My experience comes from hands-on projects, personal computer builds, home networking, operating system installations, and hardware maintenance.
 
+## Education
+
+**Associate Degree in General Studies**
+
+## Professional Development
+
+**NPower IT Training Program**
+
+Planning to enroll in February 2027.
+
 ## Technical Background
 
 My hands-on experience includes:
 
 - Building and configuring Windows desktop computers.
-- Optimizing computer performance and evaluating benchmark results.
+- Optimizing system performance and conducting Cinebench benchmarks.
 - Installing and configuring Windows and Linux operating systems.
-- Setting up Windows/Linux dual-boot environments.
-- Working with Linux distributions including Arch Linux, CachyOS, and Linux Mint.
+- Configuring Windows/Linux dual-boot environments.
+- Working with Arch Linux, CachyOS, and Linux Mint.
 - Configuring household networking and implementing MoCA connectivity.
 - Disassembling, maintaining, and reassembling laptop hardware.
-- Troubleshooting hardware and software issues.
+- Troubleshooting hardware, software, operating system, and networking issues.
+- Configuring BIOS/UEFI firmware and investigating hardware stability.
 
 ## Career Goals
 
